@@ -1,0 +1,7 @@
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\bin\Debug\ASYN.exe.config
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\bin\Debug\ASYN.exe
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\bin\Debug\ASYN.pdb
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\obj\Debug\ASYN.csproj.AssemblyReference.cache
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\obj\Debug\ASYN.csproj.CoreCompileInputs.cache
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\obj\Debug\ASYN.exe
+C:\code\c#\01asinc y paralelismo\ASYN\ASYN\ASYN\obj\Debug\ASYN.pdb
